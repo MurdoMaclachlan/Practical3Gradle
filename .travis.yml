@@ -1,0 +1,5 @@
+language: java
+jdk:
+ - opendjk11
+script:
+ - ./gradlew build
